@@ -1,0 +1,822 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.main{
+    width: 100%;
+    height: 601px;
+    float: left;
+    background-color: green;
+}
+
+.top-div{
+    width: 100%;
+    height: 40px;
+    float: left;
+}
+
+.top-div-icons{
+    width: 15%;
+    height: 40px;
+    float: left;
+}
+
+.content{
+    width: 100%;
+    height: 521px;
+    float: left;
+    background-color: rgb(246, 237, 203);
+}
+
+.left-content{
+    width: 25%;
+    height: 500px;
+    margin: 10px 0px 0px 105px;
+    float: left;
+    background-color:rgb(249, 249, 218);
+}
+
+.salads-content{
+    width: 100%;
+    height: 280px;
+    float: left;
+    font-size: 20px;
+    background-color:rgb(249, 249, 218);
+}
+
+.salads-span {
+    width: 100%;
+    height: 30px;
+    margin-left: 125px;
+    float: left;
+}
+
+.salads-span-text{
+    color: rgb(1, 92, 1);
+    font-size: 20px;
+}
+
+.div-salads-text-content{
+    width: 100%;
+    height: 250px;
+    float: left;
+}
+
+.div-salads-text-1{
+    width: 100%;
+    height: 80px;
+    float: left;
+}
+
+.salads-text-1{
+    width: 250px;
+    height: 100px;
+    float: left;
+}
+
+.salads-text-1-1{
+    color: green;
+    font-size: 18px;
+}
+
+.salads-text-1-2{
+    color: rgb(1, 92, 1);
+    font-size: 14px;
+}
+
+.salad-cost-1{
+    width: 50px;
+    height: 30px;
+    float: right;
+    font-size: 18px;
+    color: green;
+}
+
+.div-salads-text-2{
+    width: 100%;
+    height: 80px;
+    float: left;
+}
+
+.salads-text-2{
+    width: 230px;
+    height: 100px;
+    float: left;
+}
+
+.salads-text-2-1{
+    color: green;
+    font-size: 18px;
+}
+
+.salads-text-2-2{
+    color: rgb(1, 92, 1);
+    font-size: 14px;
+}
+
+.salad-cost-2{
+    width: 50px;
+    height: 30px;
+    float: right;
+    font-size: 18px;
+    color: green;
+}
+
+
+.div-salads-text-3{
+    width: 100%;
+    height: 80px;
+    margin-top: 10px;
+    float: left;
+}
+
+.salads-text-3{
+    width: 240px;
+    height: 100px;
+    float: left;
+}
+
+.salads-text-3-1{
+    color: green;
+    font-size: 18px;
+}
+
+.salads-text-3-2{
+    color: rgb(1, 92, 1);
+    font-size: 14px;
+}
+
+.salad-cost-3{
+    width: 50px;
+    height: 30px;
+    float: right;
+    font-size: 18px;
+    color: green;
+}
+
+
+.seafood-content{
+    width: 100%;
+    height: 200px;
+    float: left;
+}
+
+.seafood-span {
+    width: 65%;
+    height: 30px;
+    margin-top: 5px;
+    margin-left: 110px;
+    float: left;
+}
+
+.seafood-span-text{
+    color: rgb(1, 92, 1);
+    font-size: 20px;
+}
+
+.div-seafood-text-content{
+    width: 100%;
+    height: 150px;
+    float: left;
+}
+
+.div-seafood-text-1{
+    width: 100%;
+    height: 80px;
+    margin-top: 5px;
+    float: left;
+}
+
+.seafood-text-1{
+    width: 240px;
+    height: 100px;
+    float: left;
+}
+
+.seafood-text-1-1{
+    color: green;
+    font-size: 18px;
+}
+
+.seafood-text-1-2{
+    color: rgb(1, 92, 1);
+    font-size: 14px;
+}
+
+.seafood-cost-1{
+    width: 50px;
+    height: 30px;
+    float: right;
+    font-size: 18px;
+    color: green;
+}
+
+
+.div-seafood-text-2{
+    width: 100%;
+    height: 80px;
+    margin-top: 5px;
+    float: left;
+}
+
+.seafood-text-2{
+    width: 240px;
+    height: 100px;
+    float: left;
+}
+
+.seafood-text-2-1{
+    color: green;
+    font-size: 18px;
+}
+
+.seafood-text-2-2{
+    color: rgb(1, 92, 1);
+    font-size: 14px;
+}
+
+.seafood-cost-2{
+    width: 50px;
+    height: 30px;
+    float: right;
+    font-size: 18px;
+    color: green;
+}
+
+
+.middle-content{
+    width: 350px;
+    height: 480px;
+    margin: 20px 0px 0px 30px;
+    float: left;
+    background-color: rgb(249, 249, 218);
+}
+
+
+.main-menu-content{
+    width: 100%;
+    height: 300px;
+    float: left;
+}
+
+.main-menu-span{
+    width: 35%;
+    height: 50px;
+    margin-left: 150px;
+    float: left;
+}
+
+.main-menu-span-text{
+    font-size: 20px;
+    color: rgb(1, 92, 1);
+}
+
+.div-main-menu-text-1{
+    width: 100%;
+    height: 50px;
+    float: left;
+}
+
+.main-menu-text-1{
+    width: 240px;
+    height: 50px;
+    float: left;
+}
+
+.main-menu-text-1-1{
+    color: green;
+    font-size: 18px;
+}
+
+.main-menu-text-1-2{
+    color: rgb(1, 92, 1);
+    font-size: 14px;
+}
+
+.main-menu-cost-1{
+    width: 50px;
+    height: 30px;
+    float: right;
+    font-size: 18px;
+    color: green;
+}
+
+
+.div-main-menu-text-2{
+    width: 100%;
+    height: 50px;
+    margin-top: 5px;
+    float: left;
+}
+
+.main-menu-text-2{
+    width: 240px;
+    height: 50px;
+    float: left;
+}
+
+.main-menu-text-2-1{
+    color: green;
+    font-size: 18px;
+}
+
+.main-menu-text-2-2{
+    color: rgb(1, 92, 1);
+    font-size: 14px;
+}
+
+.main-menu-cost-2{
+    width: 50px;
+    height: 30px;
+    float: right;
+    font-size: 18px;
+    color: green;
+}
+
+
+.div-main-menu-text-3{
+    width: 100%;
+    height: 50px;
+    margin-top: 20px;
+    float: left;
+}
+
+.main-menu-text-3{
+    width: 240px;
+    height: 50px;
+    float: left;
+}
+
+.main-menu-text-3-1{
+    color: green;
+    font-size: 18px;
+}
+
+.main-menu-text-3-2{
+    color: rgb(1, 92, 1);
+    font-size: 14px;
+}
+
+.main-menu-cost-3{
+    width: 50px;
+    height: 30px;
+    float: right;
+    font-size: 18px;
+    color: green;
+}
+
+
+.div-main-menu-text-4{
+    width: 100%;
+    height: 50px;
+    margin-top: 20px;
+    float: left;
+}
+
+.main-menu-text-4{
+    width: 240px;
+    height: 50px;
+    float: left;
+}
+
+.main-menu-text-4-1{
+    color: green;
+    font-size: 18px;
+}
+
+.main-menu-text-4-2{
+    color: rgb(1, 92, 1);
+    font-size: 14px;
+}
+
+.main-menu-cost-4{
+    width: 50px;
+    height: 30px;
+    float: right;
+    font-size: 18px;
+    color: green;
+}
+
+
+.extras-content{
+    width: 100%;
+    height: 180px;
+    float: left;
+}
+
+.div-extras{
+    width: 300px;
+    height: 150px;
+    margin: 13px 0px 0px 23px;
+    border: 2px solid green;
+    float: left;
+}
+
+.extras-span{
+    width: 80px;
+    height: 30px;
+    margin: 5px 0px 0px 112px;
+    float: left;
+}
+
+.extras-span-text{
+    font-size: 20px;
+    color: rgb(1, 92, 1);
+}
+
+.extras-text-1{
+    width: 100%;
+    height: 30px;
+    margin-left: 5px;
+    float: left;
+}
+
+.extras-text-1-1{
+    width: 200px;
+    height: 30px;
+    margin-left: 5px;
+    float: left;
+    color: green;
+}
+
+.extras-cost-1{
+    color: green;
+    float: right;
+    margin-right: 15px;
+    font-size: 18px;
+}
+
+.extras-text-2{
+    width: 100%;
+    height: 30px;
+    margin-left: 5px;
+    float: left;
+}
+
+.extras-text-2-1{
+    width: 200px;
+    height: 30px;
+    margin-left: 5px;
+    float: left;
+    color: green;
+}
+
+.extras-cost-2{
+    color: green;
+    float: right;
+    margin-right: 15px;
+    font-size: 18px;
+}
+
+.extras-text-3{
+    width: 100%;
+    height: 30px;
+    margin-left: 5px;
+    float: left;
+}
+
+.extras-text-3-1{
+    width: 200px;
+    height: 30px;
+    margin-left: 5px;
+    float: left;
+    color: green;
+}
+
+.extras-cost-3{
+    color: green;
+    float: right;
+    margin-right: 15px;
+    font-size: 18px;
+}
+
+.extras-text-4{
+    width: 100%;
+    height: 30px;
+    margin-left: 5px;
+    float: left;
+}
+
+.extras-text-4-1{
+    width: 200px;
+    height: 30px;
+    margin-left: 5px;
+    float: left;
+    color: green;
+}
+
+.extras-cost-4{
+    color: green;
+    float: right;
+    margin-right: 15px;
+    font-size: 18px;
+}
+
+
+
+.right-content{
+    width: 350px;
+    height: 500px;
+    margin: 5px 0px 0px 30px;
+    float: left;
+    background-color: rgb(249, 249, 218);
+}
+
+.pizzas-content{
+    width: 100%;
+    height: 250px;
+    float: left;
+}
+
+.pizzas-span{
+    width: 100px;
+    height: 20px;
+    margin-left: 140px;
+    float: left;
+}
+
+.pizzas-span-text{
+    font-size: 20px;
+    color: green;
+}
+
+.pizzas-text-content{
+    width: 100%;
+    height: 240px;
+    margin-top: 20px;
+}
+
+.div-pizzas-text-1{
+    width: 100%;
+    height: 55px;
+    margin-top: 20px;
+    float: left;
+}
+
+.pizzas-text-1{
+    width: 250px;
+    height: 55px;
+    float: left;
+}
+
+.pizzas-text-1-1{
+    color: green;
+    font-size: 18px;
+}
+
+.pizzas-text-1-2{
+    color: rgb(1, 92, 1);
+    font-size: 14px;
+}
+
+.pizzas-cost-1{
+    float: right;
+    color: green;
+    font-size: 18px;
+}
+
+.div-pizzas-text-2{
+    width: 100%;
+    height: 55px;
+    margin-top: 20px;
+    float: left;
+}
+
+.pizzas-text-2{
+    width: 250px;
+    height: 55px;
+    float: left;
+}
+
+.pizzas-text-2-1{
+    color: green;
+    font-size: 18px;
+}
+
+.pizzas-text-2-2{
+    color: rgb(1, 92, 1);
+    font-size: 14px;
+}
+
+.pizzas-cost-2{
+    float: right;
+    color: green;
+    font-size: 18px;
+}
+
+.div-pizzas-text-3{
+    width: 100%;
+    height: 55px;
+    margin-top: 20px;
+    float: left;
+}
+
+.pizzas-text-3{
+    width: 250px;
+    height: 55px;
+    float: left;
+}
+
+.pizzas-text-3-1{
+    color: green;
+    font-size: 18px;
+}
+
+.pizzas-text-3-2{
+    color: rgb(1, 92, 1);
+    font-size: 14px;
+}
+
+.pizzas-cost-3{
+    float: right;
+    color: green;
+    font-size: 18px;
+}
+
+
+.desserts-content{
+    width: 100%;
+    height: 250px;
+    float: left;
+}
+
+.desserts-span{
+    width: 100px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 125px;
+    float: left;
+}
+
+.desserts-span-text{
+    color: rgb(1, 92, 1);
+    font-size: 20px;
+}
+
+.div-desserts-content-text{
+    width: 100%;
+    height: 130px;
+    float: left;
+}
+
+
+.desserts-text-1{
+    width: 100%;
+    height: 25px;
+    margin-left: 5px;
+    float: left;
+}
+
+.desserts-text-1-1{
+    width: 200px;
+    height: 25px;
+    margin-left: 5px;
+    float: left;
+    color: green;
+}
+
+.desserts-cost-1{
+    color: green;
+    float: right;
+    margin-right: 15px;
+    font-size: 18px;
+}
+
+.desserts-text-2{
+    width: 100%;
+    height: 25px;
+    margin-left: 5px;
+    float: left;
+}
+
+.desserts-text-2-1{
+    width: 200px;
+    height: 25px;
+    margin-left: 5px;
+    float: left;
+    color: green;
+}
+
+.desserts-cost-2{
+    color: green;
+    float: right;
+    margin-right: 15px;
+    font-size: 18px;
+}
+
+.desserts-text-3{
+    width: 100%;
+    height: 25px;
+    margin-left: 5px;
+    float: left;
+}
+
+.desserts-text-3-1{
+    width: 200px;
+    height: 25px;
+    margin-left: 5px;
+    float: left;
+    color: green;
+}
+
+.desserts-cost-3{
+    color: green;
+    float: right;
+    margin-right: 15px;
+    font-size: 18px;
+}
+
+.desserts-text-4{
+    width: 100%;
+    height: 25px;
+    margin-left: 5px;
+    float: left;
+}
+
+.desserts-text-4-1{
+    width: 200px;
+    height: 25px;
+    margin-left: 5px;
+    float: left;
+    color: green;
+}
+
+.desserts-cost-4{
+    color: green;
+    float: right;
+    margin-right: 15px;
+    font-size: 18px;
+}
+
+.desserts-text-5{
+    width: 100%;
+    height: 25px;
+    margin-left: 5px;
+    float: left;
+}
+
+.desserts-text-5-1{
+    width: 200px;
+    height: 25px;
+    margin-left: 5px;
+    float: left;
+    color: green;
+}
+
+.desserts-cost-5{
+    color: green;
+    float: right;
+    margin-right: 15px;
+    font-size: 18px;
+}
+
+
+.div-special-daily-menu{
+    width: 250px;
+    height: 65px;
+    margin: 5px 0px 0px 40px;
+    float: left;
+    border-radius: 20px;
+    background-color: green;
+}
+
+.special-daily-menu-span{
+    width: 200px;
+    height: 25px;
+    margin-left: 50px;
+    float: left;
+}
+
+.div-special-daily-menu-text{
+    width: 240px;
+    height: 35px;
+    margin-left: 15px;
+    float: left;
+}
+
+.special-daily-menu-span-text{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.ul-special-daily-menu-text{
+    height: 30px;
+    color: white;
+    font-size: 12px;
+    list-style-type: none;
+}
+
+li{
+    border: 2px solid white;
+    border-bottom: none;
+    border-left: none;
+    border-top: none;
+    margin-left: 5px;
+}
+
+.footer-div{
+    width: 100%;
+    height: 40px;
+    float: left;
+}
